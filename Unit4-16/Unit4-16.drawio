@@ -4,7 +4,7 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="13" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;TEJ3M - Unit 4 - 15&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Youngwook Go&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;2023. Dec. 11&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;XOR gate with&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IC chip&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
+                <mxCell id="13" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;TEJ3M - Unit 4 - 16&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Youngwook Go&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;2023. Dec. 11&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;XOR gate with&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IC chip&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
                     <mxGeometry x="40" y="40" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="58" value="A" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;glass=0;" parent="1" vertex="1">
@@ -41,7 +41,7 @@
                 <mxCell id="99" value="" style="shape=mxgraph.electrical.electro-mechanical.twoWaySwitch;elSwitchState=2;strokeWidth=2;rotation=-180;" parent="1" vertex="1">
                     <mxGeometry x="285" y="142.5" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="197" style="edgeStyle=none;html=1;exitX=0;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="111" target="196">
+                <mxCell id="197" style="edgeStyle=none;html=1;exitX=0;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="111" target="196" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="111" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.led_2;pointerEvents=1;flipH=1;strokeWidth=2;" parent="1" vertex="1">
@@ -152,7 +152,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="196" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=xor;strokeWidth=2;rotation=90;" vertex="1" parent="1">
+                <mxCell id="196" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=xor;strokeWidth=2;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="450" y="187.5" width="100" height="60" as="geometry"/>
                 </mxCell>
             </root>
